@@ -1,0 +1,75 @@
+header{
+    background-color: rgb(94, 6, 124);
+    border-radius: 15px;
+    height: 15rem;
+    align-content: center;
+     
+}
+.name{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+.image{
+    height: 6in; ;
+    width:4in;
+margin-right: 15px;
+padding-left: 25px;
+}
+footer{
+    background-color: black;
+   color: white;
+   text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+.abc{
+    color: black;
+    text-decoration:none;
+    font-size: 20px;
+    font-weight:bold;
+    
+}
+.abc:hover{
+    color: chartreuse;
+    text-decoration: underline;
+}
+.abc:active{
+    color: red;
+}
+
+ul{
+    list-style-type: none; 
+    display: flex;
+    padding-bottom: 25px;
+    padding-left: 40%;
+}
+li{
+    padding: 12px;
+}
+nav{
+   display: inline;
+}
+.flex-container{
+    display: flex;
+    margin-top: 40px;
+}
+.intro{
+    font-style: italic;
+    font-size: 25px;
+}
+#hello{
+    font-size: 35px;
+    margin-left: 25px;
+    font-family: cursive;
+}
+.email{
+    padding-right:100px;
+    color: aqua;
+    padding-bottom: 10px;
+}
+p{
+    font-size:20px;
+}
